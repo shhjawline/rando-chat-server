@@ -1,0 +1,6 @@
+{
+  "name": "rando-chat-server",
+  "scripts": {
+    "start": "bun run index.js"
+  }
+}
